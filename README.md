@@ -1,5 +1,5 @@
 ## 应用功能介绍｜人生记录（Life Tracker）
-![Uploading image.png…]()
+
 
 ### 1. 人生格子日历
 
